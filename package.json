@@ -1,11 +1,5 @@
 {
-  "name": "web-based-wallet",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
 }
